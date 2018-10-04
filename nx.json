@@ -1,0 +1,36 @@
+{
+  "npmScope": "code-sharing",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "web-app-one": {
+      "tags": []
+    },
+    "web-app-one-e2e": {
+      "tags": []
+    },
+    "web-app-two": {
+      "tags": []
+    },
+    "web-app-two-e2e": {
+      "tags": []
+    },
+    "shared-core": {
+      "tags": []
+    },
+    "shared-component": {
+      "tags": []
+    },
+    "component-element": {
+      "tags": []
+    },
+    "component-element-e2e": {
+      "tags": []
+    }
+  }
+}

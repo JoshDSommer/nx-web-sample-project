@@ -1,0 +1,14 @@
+{
+	"name": "html",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"devDependencies": {
+	  "http-server": "file:../../node_modules/http-server/"
+	},
+	"scripts": {
+	  "serve": "http-server -p 4200 --gzip -P http://localhost"
+	},
+	"author": "",
+	"license": "ISC"
+  }
